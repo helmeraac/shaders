@@ -14,7 +14,7 @@ Utilizar shaders para implementar modelos de luces que simulen una interacción 
 
 Se utiliza el vertex shader para manipular la posicion de los vertices basados en texturas 2d y se utiliza el fragment shader para aplicar modelos de iluminacion con efectos ambientales basados en la distancia de la camara al objeto convincentes para el ojo del espectador.
 
-## Discusión y trabaho futuro
+## Discusión y trabajo futuro
 
 Se logró un efecto creible y satisfactorio en la primera version de la implementación por ahora manejado unicamente con una fuente de luz. Como trabajo futuro se puede hacer la implementación de otras fuentes de luz para que interactuen con el modelo ambiental, ademas de generar un modelo de generación ambiental mas complejo que implemente interacciones fisicas como in/out scattering.
 
